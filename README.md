@@ -4,3 +4,5 @@
 <p>Este projeto NÃO tem como objetivo ser um jogo completo, ele é apenas um sistema de combate por turno no estilo de alguns jogos como Final fantasy, pokemon,
 undertale, dentre outros. O projeto simula o combate do protagonista com o sentimento de culpa que ele carrega, o diferencial desse projeto é que ele foi feito apenas com java e swing (fora o aseprite que usei para criar o visual do vilão).
 </p>
+<h2>Como instalar na sua maquina</h2>
+<p>Para usar este projeto em jua maquina faça o dowload da pasta "Instale no seu pc" e execute o arquivo "sistema"</p>
